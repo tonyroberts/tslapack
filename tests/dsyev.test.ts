@@ -1,5 +1,5 @@
 import * as ndarray from 'ndarray';
-import {dsyev} from "../tslapack";
+import {dsyev} from "../src/tslapack";
 
 test("dseyev", () => {
 
